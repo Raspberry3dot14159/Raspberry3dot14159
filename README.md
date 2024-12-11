@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on programming
 - 📫 Reachable through absurd means
-- 😄 Pronouns: pro/gramming
 - ⚡ Fun fact: I like programming
 
 <!---
