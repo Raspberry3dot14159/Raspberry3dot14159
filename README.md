@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Raspberry3dot14159
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on programming
+- 💞️ I’m looking to NEVER NEVER NEVER NEVER collaborate on programming
 - 📫 Reachable through absurd means
 - ⚡ Fun fact: I like programming
 
